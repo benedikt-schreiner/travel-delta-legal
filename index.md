@@ -26,6 +26,15 @@ Rechtliche Dokumente für die mobile App **Travel Delta** (iOS & Android).
 - [Deutsch](terms/de.html)
 - [English](terms/en.html)
 
+## Support
+
+- [Deutsch](support/de.html)
+- [English](support/en.html)
+- [Français](support/fr.html)
+- [Español](support/es.html)
+- [Italiano](support/it.html)
+- [Português](support/pt.html)
+
 ---
 
 Betreiber: Benedikt Schreiner · Industriestraße 65 · 46414 Rhede · Deutschland
