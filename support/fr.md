@@ -12,7 +12,7 @@ Vous avez une question, avez trouvé un bug ou avez besoin d'aide avec Travel De
 
 ## Contact
 
-E-mail : [benedikt.schreiner@googlemail.com](mailto:benedikt.schreiner@googlemail.com)
+E-mail : [support@schreiner-apps.de](mailto:support@schreiner-apps.de)
 
 Nous nous efforçons de répondre aux demandes sous quelques jours ouvrés.
 

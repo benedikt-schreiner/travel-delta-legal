@@ -17,7 +17,7 @@ Deutschland
 
 ## Kontakt
 
-E-Mail: benedikt.schreiner@googlemail.com
+E-Mail: support@schreiner-apps.de
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 MStV
 

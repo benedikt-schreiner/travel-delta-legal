@@ -12,7 +12,7 @@ Du hast eine Frage, einen Fehler gefunden oder benötigst Hilfe bei Travel Delta
 
 ## Kontakt
 
-E-Mail: [benedikt.schreiner@googlemail.com](mailto:benedikt.schreiner@googlemail.com)
+E-Mail: [support@schreiner-apps.de](mailto:support@schreiner-apps.de)
 
 Wir bemühen uns, Anfragen innerhalb weniger Werktage zu beantworten.
 

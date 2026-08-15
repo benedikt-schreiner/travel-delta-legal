@@ -13,7 +13,7 @@ lang: es
 Benedikt Schreiner
 Industriestraße 65
 46414 Rhede, Alemania
-Correo electrónico: benedikt.schreiner@googlemail.com
+Correo electrónico: support@schreiner-apps.de
 
 ## 2. Principio: tratamiento mínimo de datos
 
@@ -66,7 +66,7 @@ Tienes derecho a:
 - Portabilidad de datos (Art. 20)
 - Oponerte al tratamiento (Art. 21)
 
-Para ejercer tus derechos, contacta con: benedikt.schreiner@googlemail.com
+Para ejercer tus derechos, contacta con: support@schreiner-apps.de
 
 También tienes derecho a presentar una reclamación ante una autoridad de control de protección de datos.
 

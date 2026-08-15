@@ -13,7 +13,7 @@ lang: en
 Benedikt Schreiner
 Industriestraße 65
 46414 Rhede, Germany
-Email: benedikt.schreiner@googlemail.com
+Email: support@schreiner-apps.de
 
 ## 2. Principle: Minimal Data Processing
 
@@ -66,7 +66,7 @@ You have the right to:
 - Data portability (Art. 20)
 - Objection to processing (Art. 21)
 
-To exercise your rights, contact: benedikt.schreiner@googlemail.com
+To exercise your rights, contact: support@schreiner-apps.de
 
 You also have the right to lodge a complaint with a data protection supervisory authority.
 

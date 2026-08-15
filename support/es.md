@@ -12,7 +12,7 @@ lang: es
 
 ## Contacto
 
-Correo electrónico: [benedikt.schreiner@googlemail.com](mailto:benedikt.schreiner@googlemail.com)
+Correo electrónico: [support@schreiner-apps.de](mailto:support@schreiner-apps.de)
 
 Procuramos responder a las consultas en un plazo de pocos días hábiles.
 
