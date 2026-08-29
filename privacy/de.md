@@ -37,6 +37,9 @@ Für den Betrieb der App werden folgende externe Dienste genutzt:
 **Supabase** (Supabase Inc., San Francisco, USA)
 Lädt Reisedaten wie Einreisebestimmungen, Notfallnummern und Roaming-Informationen. Dabei werden ausschließlich Ländercodes übermittelt (z. B. „DE", „US"). Keine personenbezogenen Daten werden übertragen. Daten werden für bis zu 24 Stunden lokal gecacht. Weitere Informationen: [supabase.com/privacy](https://supabase.com/privacy)
 
+**Supabase – Empfehlungsfunktion („Freunde einladen")**
+Zur Zuordnung von Empfehlungscodes wird eine zufällig generierte, anonyme Geräte-Kennung an Supabase übermittelt. Diese Kennung ist nicht mit deinem Namen, deiner E-Mail-Adresse oder anderen personenbezogenen Daten verknüpft. Du kannst sie jederzeit selbst löschen (siehe Abschnitt 8) oder sie wird automatisch nach spätestens 180 Tagen entfernt.
+
 **frankfurter.app** (öffentliche Wechselkurs-API)
 Abrufen von Wechselkursen. Übermittelt werden ausschließlich Währungscodes (z. B. „EUR", „USD"). Keine personenbezogenen Daten. Kurse werden lokal für bis zu 4 Stunden gecacht.
 
@@ -66,10 +69,12 @@ Du hast das Recht auf:
 - Datenübertragbarkeit (Art. 20)
 - Widerspruch gegen die Verarbeitung (Art. 21)
 
-Zur Ausübung deiner Rechte wende dich an: support@schreiner-apps.de
+Deine Empfehlungsdaten (siehe Abschnitt 4) kannst du direkt in der App löschen: Einstellungen → Über die App → „Meine Daten löschen". Nicht gelöschte Empfehlungsdaten werden automatisch spätestens nach 180 Tagen entfernt.
+
+Zur Ausübung deiner sonstigen Rechte wende dich an: support@schreiner-apps.de
 
 Du hast außerdem das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
 
 ---
 
-Stand: Juni 2026
+Stand: August 2026

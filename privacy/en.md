@@ -37,6 +37,9 @@ The following external services are used to operate the app:
 **Supabase** (Supabase Inc., San Francisco, USA)
 Loads travel data such as entry requirements, emergency numbers, and roaming information. Only country codes are transmitted (e.g. "DE", "US"). No personal data is transferred. Data is cached locally for up to 24 hours. More info: [supabase.com/privacy](https://supabase.com/privacy)
 
+**Supabase – Referral feature ("invite a friend")**
+To attribute referral codes, a randomly generated, anonymous device identifier is sent to Supabase. This identifier is not linked to your name, email address, or any other personal data. You can delete it yourself at any time (see Section 8), and it is automatically removed after at most 180 days regardless.
+
 **frankfurter.app** (public exchange rate API)
 Retrieves currency exchange rates. Only currency codes are transmitted (e.g. "EUR", "USD"). No personal data is involved. Rates are cached locally for up to 4 hours.
 
@@ -66,10 +69,12 @@ You have the right to:
 - Data portability (Art. 20)
 - Objection to processing (Art. 21)
 
-To exercise your rights, contact: support@schreiner-apps.de
+You can delete your referral data (see Section 4) directly in the app: Settings → About → "Delete my data". Any referral data you don't delete yourself is automatically removed after at most 180 days.
+
+To exercise your other rights, contact: support@schreiner-apps.de
 
 You also have the right to lodge a complaint with a data protection supervisory authority.
 
 ---
 
-Last updated: June 2026
+Last updated: August 2026

@@ -37,6 +37,9 @@ Os seguintes serviços externos são utilizados para o funcionamento da aplicaç
 **Supabase** (Supabase Inc., São Francisco, EUA)
 Carrega dados de viagem como requisitos de entrada, números de emergência e informações de roaming. Apenas são transmitidos códigos de país (ex.: «DE», «US»). Nenhum dado pessoal é transferido. Os dados são armazenados em cache localmente durante um máximo de 24 horas. Mais informações: [supabase.com/privacy](https://supabase.com/privacy)
 
+**Supabase – Funcionalidade de convite ("convidar um amigo")**
+Para atribuir códigos de convite, é enviado à Supabase um identificador de dispositivo anónimo gerado aleatoriamente. Este identificador não está associado ao teu nome, endereço de e-mail ou outros dados pessoais. Podes eliminá-lo tu próprio a qualquer momento (ver secção 8); de qualquer forma, é removido automaticamente no prazo máximo de 180 dias.
+
 **frankfurter.app** (API pública de taxas de câmbio)
 Obtém taxas de câmbio de moeda. Apenas são transmitidos códigos de moeda (ex.: «EUR», «USD»). Sem dados pessoais. As taxas são armazenadas em cache localmente durante um máximo de 4 horas.
 
@@ -66,10 +69,12 @@ Tens o direito de:
 - Portabilidade dos dados (Art. 20.º)
 - Opores-te ao tratamento (Art. 21.º)
 
-Para exerceres os teus direitos, contacta: support@schreiner-apps.de
+Podes eliminar os teus dados de convite (ver secção 4) diretamente na aplicação: Definições → Sobre → "Eliminar os meus dados". Os dados de convite que não elimines tu próprio são removidos automaticamente no prazo máximo de 180 dias.
+
+Para exerceres os teus outros direitos, contacta: support@schreiner-apps.de
 
 Tens também o direito de apresentar uma reclamação junto de uma autoridade de controlo de proteção de dados.
 
 ---
 
-Atualizado: junho de 2026
+Atualizado: agosto de 2026

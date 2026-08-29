@@ -37,6 +37,9 @@ Les services externes suivants sont utilisés pour faire fonctionner l'applicati
 **Supabase** (Supabase Inc., San Francisco, États-Unis)
 Charge les données de voyage telles que les conditions d'entrée, les numéros d'urgence et les informations d'itinérance. Seuls des codes pays sont transmis (ex. : « DE », « US »). Aucune donnée personnelle n'est transférée. Les données sont mises en cache localement pendant 24 heures maximum. Plus d'infos : [supabase.com/privacy](https://supabase.com/privacy)
 
+**Supabase – Fonction de parrainage (« inviter un ami »)**
+Pour attribuer les codes de parrainage, un identifiant d'appareil anonyme généré aléatoirement est envoyé à Supabase. Cet identifiant n'est lié ni à votre nom, ni à votre adresse e-mail, ni à aucune autre donnée personnelle. Vous pouvez le supprimer vous-même à tout moment (voir section 8) ; il est de toute façon supprimé automatiquement au plus tard après 180 jours.
+
 **frankfurter.app** (API publique de taux de change)
 Récupère les taux de change. Seuls des codes de devise sont transmis (ex. : « EUR », « USD »). Aucune donnée personnelle. Les taux sont mis en cache localement pendant 4 heures maximum.
 
@@ -66,10 +69,12 @@ Vous avez le droit :
 - À la portabilité des données (Art. 20)
 - De vous opposer au traitement (Art. 21)
 
-Pour exercer vos droits, contactez : support@schreiner-apps.de
+Vous pouvez supprimer vos données de parrainage (voir section 4) directement dans l'application : Réglages → À propos → « Supprimer mes données ». Les données de parrainage que vous ne supprimez pas vous-même sont automatiquement supprimées au plus tard après 180 jours.
+
+Pour exercer vos autres droits, contactez : support@schreiner-apps.de
 
 Vous avez également le droit d'introduire une réclamation auprès d'une autorité de contrôle de la protection des données.
 
 ---
 
-Mise à jour : juin 2026
+Mise à jour : août 2026

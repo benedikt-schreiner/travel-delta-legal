@@ -37,6 +37,9 @@ Para el funcionamiento de la aplicación se utilizan los siguientes servicios ex
 **Supabase** (Supabase Inc., San Francisco, EE. UU.)
 Carga datos de viaje como requisitos de entrada, números de emergencia e información de itinerancia. Solo se transmiten códigos de país (p. ej., «DE», «US»). No se transfieren datos personales. Los datos se almacenan en caché localmente durante un máximo de 24 horas. Más información: [supabase.com/privacy](https://supabase.com/privacy)
 
+**Supabase – Función de referidos («invitar a un amigo»)**
+Para atribuir los códigos de referido, se envía a Supabase un identificador de dispositivo anónimo generado aleatoriamente. Este identificador no está vinculado a tu nombre, correo electrónico ni a ningún otro dato personal. Puedes eliminarlo tú mismo en cualquier momento (ver sección 8); en cualquier caso, se elimina automáticamente a más tardar a los 180 días.
+
 **frankfurter.app** (API pública de tipos de cambio)
 Obtiene tipos de cambio de divisas. Solo se transmiten códigos de moneda (p. ej., «EUR», «USD»). Sin datos personales. Los tipos se almacenan en caché localmente durante un máximo de 4 horas.
 
@@ -66,10 +69,12 @@ Tienes derecho a:
 - Portabilidad de datos (Art. 20)
 - Oponerte al tratamiento (Art. 21)
 
-Para ejercer tus derechos, contacta con: support@schreiner-apps.de
+Puedes eliminar tus datos de referidos (ver sección 4) directamente en la aplicación: Ajustes → Acerca de → "Eliminar mis datos". Los datos de referidos que no elimines tú mismo se eliminan automáticamente a más tardar a los 180 días.
+
+Para ejercer tus demás derechos, contacta con: support@schreiner-apps.de
 
 También tienes derecho a presentar una reclamación ante una autoridad de control de protección de datos.
 
 ---
 
-Actualizado: junio de 2026
+Actualizado: agosto de 2026
