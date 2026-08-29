@@ -26,6 +26,15 @@ Rechtliche Dokumente für die mobile App **Travel Delta** (iOS & Android).
 - [Deutsch](terms/de.html)
 - [English](terms/en.html)
 
+## Löschung von Daten / Data Deletion
+
+- [Deutsch](deletion/de.html)
+- [English](deletion/en.html)
+- [Français](deletion/fr.html)
+- [Español](deletion/es.html)
+- [Italiano](deletion/it.html)
+- [Português](deletion/pt.html)
+
 ## Support
 
 - [Deutsch](support/de.html)
