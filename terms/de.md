@@ -59,7 +59,11 @@ Travel Delta behält sich vor, den Zugang zur App bei Verstößen gegen diese Nu
 
 ## § 11 Änderungen der Nutzungsbedingungen
 
-Travel Delta behält sich vor, diese Bedingungen jederzeit anzupassen. Die jeweils aktuellen Nutzungsbedingungen sind in der App abrufbar.
+Travel Delta ist berechtigt, diese Nutzungsbedingungen mit Wirkung für die Zukunft zu ändern, soweit dies zur Anpassung an geänderte rechtliche oder technische Rahmenbedingungen erforderlich ist oder die Änderung für den Nutzer nicht mit Nachteilen verbunden ist, die über eine bloße Anpassung hinausgehen. Über wesentliche Änderungen wird der Nutzer mindestens sechs Wochen vor deren geplantem Inkrafttreten in Textform (z. B. per In-App-Benachrichtigung oder E-Mail) informiert.
+
+Widerspricht der Nutzer den Änderungen nicht innerhalb von sechs Wochen nach Zugang der Mitteilung, gelten die geänderten Bedingungen als angenommen. Auf diese Rechtsfolge wird der Nutzer in der Änderungsmitteilung gesondert hingewiesen. Widerspricht der Nutzer fristgerecht, ist Travel Delta berechtigt, das Nutzungsverhältnis mit einer Frist von vier Wochen zu kündigen; der Nutzer kann die Nutzung der App auch vor Fristablauf jederzeit durch Deinstallation beenden.
+
+Für bereits erworbene Premium-Funktionen (§ 4) bleibt der zum Kaufzeitpunkt bestehende Funktionsumfang von einer Änderung dieser Nutzungsbedingungen unberührt, soweit sich aus zwingenden gesetzlichen Vorschriften nichts anderes ergibt.
 
 ## § 12 Anwendbares Recht
 

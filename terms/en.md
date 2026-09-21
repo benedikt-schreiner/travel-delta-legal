@@ -59,7 +59,11 @@ Travel Delta reserves the right to fully or partially suspend or restrict access
 
 ## § 11 Amendments to the Terms of Use
 
-Travel Delta reserves the right to amend these terms at any time. The current Terms of Use are accessible within the app.
+Travel Delta is entitled to amend these Terms of Use with effect for the future, provided that such amendment is necessary to adapt to changed legal or technical circumstances, or does not place the user at a disadvantage beyond a mere adjustment. The user will be informed of material amendments in text form (e.g., via in-app notification or email) at least six weeks before their planned entry into force.
+
+If the user does not object to the amendments within six weeks of receiving the notification, the amended terms shall be deemed accepted. The user will be separately informed of this legal consequence in the notification of the amendment. If the user objects within this period, Travel Delta is entitled to terminate the user relationship with four weeks' notice; the user may also end use of the app at any time before expiry of this period by uninstalling it.
+
+For premium features already purchased (§ 4), the scope of functionality existing at the time of purchase shall remain unaffected by any amendment to these Terms of Use, unless mandatory statutory provisions provide otherwise.
 
 ## § 12 Applicable Law
 
