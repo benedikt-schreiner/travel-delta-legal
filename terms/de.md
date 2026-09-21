@@ -10,19 +10,20 @@ lang: de
 
 ## § 1 Geltungsbereich
 
-Diese Nutzungsbedingungen gelten für die Nutzung der mobilen Applikation „Travel Delta". Durch die Nutzung der App stimmt der Nutzer diesen Bedingungen zu.
+Diese Nutzungsbedingungen gelten für die Nutzung der mobilen Applikation „Travel Delta”. Durch die Nutzung der App stimmt der Nutzer diesen Bedingungen zu.
 
 ## § 2 Art des Dienstes
 
-Travel Delta stellt allgemeine Reiseinformationen bereit und ist kein Buchungsportal. Alle Angaben zu Einreisebestimmungen, Währungskursen, Notrufnummern, Verkehrsregeln und sonstigen Reisedaten dienen ausschließlich der allgemeinen Orientierung.
+Travel Delta stellt allgemeine Reiseinformationen bereit und ist kein Buchungsportal. Alle Angaben zu Einreisebestimmungen, Währungskursen, Notrufnummern, Verkehrsregeln, Reisebestimmungen für Haustiere und sonstigen Reisedaten dienen ausschließlich der allgemeinen Orientierung.
 
 ## § 3 Nutzungsrechte (Lizenz)
 
-Travel Delta räumt dem Nutzer ein einfaches, nicht übertragbares und jederzeit widerrufliches Recht ein, die App im Rahmen der bestimmungsgemäßen Nutzung auf eigenen Endgeräten zu installieren und zu verwenden. Eine Vervielfältigung, Bearbeitung, Dekompilierung, Rückentwicklung oder Weitergabe der App an Dritte ist, soweit gesetzlich nicht ausdrücklich gestattet, untersagt.
+Travel Delta räumt dem Nutzer ein einfaches, nicht übertragbares Recht ein, die App im Rahmen der bestimmungsgemäßen Nutzung auf eigenen Endgeräten zu installieren und zu verwenden. Ein Widerruf oder eine Einschränkung dieses Nutzungsrechts erfolgt nur aus wichtigem Grund, insbesondere bei Verstößen gegen diese Nutzungsbedingungen (siehe § 10). Eine Vervielfältigung, Bearbeitung, Dekompilierung, Rückentwicklung oder Weitergabe der App an Dritte ist, soweit gesetzlich nicht ausdrücklich gestattet, untersagt.
 
 ## § 4 In-App-Käufe und Premium-Funktionen
 
-Die App bietet optionale, kostenpflichtige Premium-Funktionen an, die als einmaliger In-App-Kauf über den Apple App Store bzw. Google Play Store erworben werden können. Die Zahlungsabwicklung erfolgt ausschließlich über den jeweiligen Store-Betreiber; es gelten dessen Zahlungs-, Rückerstattungs- und Nutzungsbedingungen. Maßgeblich ist der im jeweiligen Store vor Kaufabschluss angezeigte Preis. Anfragen zu Rückerstattungen sind direkt an Apple bzw. Google zu richten; Travel Delta hat auf entsprechende Entscheidungen keinen Einfluss.
+Die App bietet optionale, kostenpflichtige Premium-Funktionen an, die als einmaliger In-App-Kauf über den Apple App Store bzw. Google Play Store erworben werden können. Die Zahlungsabwicklung erfolgt ausschließlich über den jeweiligen Store-Betreiber; es gelten dessen Zahlungs-, Rückerstattungs- und Nutzungsbedingungen.
+Für die Ausübung des gesetzlichen Widerrufsrechts bei In-App-Käufen gelten ebenfalls die Bestimmungen der jeweiligen Plattform (Apple bzw. Google). Maßgeblich ist der im jeweiligen Store vor Kaufabschluss angezeigte Preis. Anfragen zu Rückerstattungen oder Widerrufen sind direkt an Apple bzw. Google zu richten; Travel Delta hat auf entsprechende Entscheidungen keinen Einfluss.
 
 ## § 5 Geistiges Eigentum
 
@@ -30,15 +31,15 @@ Sämtliche Inhalte, Texte, Grafiken, Icons, Logos und die Software der App sind 
 
 ## § 6 Haftungsausschluss
 
-Die bereitgestellten Informationen wurden mit größtmöglicher Sorgfalt zusammengestellt. Eine Garantie für Richtigkeit, Vollständigkeit oder Aktualität wird nicht übernommen.
+Travel Delta haftet unbeschränkt bei Vorsatz und grober Fahrlässigkeit sowie für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit. Bei der leicht fahrlässigen Verletzung wesentlicher Vertragspflichten (Kardinalpflichten, also Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Nutzer regelmäßig vertrauen darf) ist die Haftung auf den vorhersehbaren, vertragstypischen Schaden begrenzt. Im Übrigen ist die Haftung ausgeschlossen.
 
-Insbesondere gilt:
+Die bereitgestellten Informationen in der App wurden mit größtmöglicher Sorgfalt zusammengestellt. Eine Garantie für Richtigkeit, Vollständigkeit oder Aktualität wird jedoch nicht übernommen. Insbesondere gilt:
 
 - Einreisebestimmungen und Visaregelungen können sich kurzfristig ändern – vor Reiseantritt sind offizielle Quellen (z. B. Auswärtiges Amt) zu prüfen.
 - Wechselkurse sind Richtwerte und können von tatsächlichen Bankkonditionen abweichen.
 - Notrufnummern und medizinische Hinweise sind vor Ort durch offizielle Stellen zu verifizieren.
-- Die Verkehrsregeln und Gesetze des jeweiligen Ziellandes sind unbedingt zu befolgen; eine Haftung für Schäden, die aus deren Nichtbeachtung entstehen, wird nicht übernommen.
-- Travel Delta haftet nicht für Schäden, die durch die Nutzung oder Nichtnutzung der bereitgestellten Informationen entstehen – soweit gesetzlich zulässig.
+- Die Verkehrsregeln und Gesetze des jeweiligen Ziellandes sind unbedingt zu befolgen; eine Haftung für Schäden, die aus deren Nichtbeachtung entstehen, wird im Rahmen der oben genannten Haftungsregelungen nicht übernommen.
+- Regeln für Reisen mit Haustieren (z. B. Mikrochip, Impfungen, Wartefristen, Rassebeschränkungen, Quarantäne) werden von nationalen Behörden festgelegt, können sich kurzfristig ändern und werden an der Grenze durchgesetzt. Eine verweigerte Einreise oder die Quarantäne eines Tieres sowie die daraus entstehenden Kosten gehen zu Lasten des Tierhalters. Alle Anforderungen sind stets bei der offiziellen Stelle des Ziellandes und bei einer Tierärztin oder einem Tierarzt zu bestätigen; für übersehene oder fehlerhafte Angaben wird – soweit gesetzlich zulässig – keine Haftung übernommen.
 
 ## § 7 Drittanbieter-Inhalte
 
@@ -46,11 +47,11 @@ Die App kann auf Inhalte oder Dienste Dritter verweisen (z. B. Partnerangebote, 
 
 ## § 8 Keine Fach- oder Rechtsberatung
 
-Die App-Inhalte ersetzen keine Rechts-, Steuer-, medizinische oder offizielle Reiseberatung. Bei rechtlichen oder gesundheitlichen Fragen sind entsprechende Fachleute zu konsultieren.
+Die App-Inhalte ersetzen keine Rechts-, Steuer-, medizinische, tierärztliche oder offizielle Reiseberatung. Bei rechtlichen, gesundheitlichen oder tierärztlichen Fragen sind entsprechende Fachleute zu konsultieren.
 
 ## § 9 Datenschutz
 
-Informationen zur Erhebung, Verarbeitung und Nutzung personenbezogener Daten sind der separaten [Datenschutzerklärung](../privacy/de.html) zu entnehmen, die in der App sowie auf dieser Website abrufbar ist.
+Informationen zur Erhebung, Verarbeitung und Nutzung personenbezogener Daten sind der separaten Datenschutzerklärung zu entnehmen, die in der App sowie auf dieser Website abrufbar ist.
 
 ## § 10 Kündigung und Sperrung der Nutzung
 
@@ -60,11 +61,9 @@ Travel Delta behält sich vor, den Zugang zur App bei Verstößen gegen diese Nu
 
 Travel Delta behält sich vor, diese Bedingungen jederzeit anzupassen. Die jeweils aktuellen Nutzungsbedingungen sind in der App abrufbar.
 
-## § 12 Anwendbares Recht und Streitschlichtung
+## § 12 Anwendbares Recht
 
-Es gilt das Recht der Bundesrepublik Deutschland. Erfüllungsort und Gerichtsstand ist, soweit gesetzlich zulässig, der Sitz des Anbieters.
-
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, abrufbar unter [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle ist Travel Delta nicht verpflichtet und nicht bereit.
+Es gilt das Recht der Bundesrepublik Deutschland. Bei Verbrauchern gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende verbraucherschützende Bestimmungen des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird.
 
 ## § 13 Salvatorische Klausel
 
@@ -72,4 +71,4 @@ Sollten einzelne Bestimmungen dieser Nutzungsbedingungen unwirksam sein oder wer
 
 ---
 
-Stand: Juni 2026
+Stand: September 2026
