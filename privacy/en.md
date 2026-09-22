@@ -40,6 +40,9 @@ Loads travel data such as entry requirements, emergency numbers, and roaming inf
 **Supabase – Referral feature ("invite a friend")**
 To attribute referral codes, a randomly generated, anonymous device identifier is sent to Supabase. This identifier is not linked to your name, email address, or any other personal data. You can delete it yourself at any time (see Section 8), and it is automatically removed after at most 180 days regardless.
 
+**Supabase – Creator Partner Program (attribution)**
+If you install Travel Delta through a tracked link shared by a content creator, the app reports the install — and, later, a completed premium purchase — to a second, separate Supabase project we operate, so we can credit that creator with a commission. This uses: a one-way cryptographic hash of the device identifier described above (it cannot be reversed back to that identifier); on Android, the install-source string provided by Google Play; on iOS, a short-lived code the tracked link briefly places on your clipboard, which the app reads once after installation (this can trigger iOS's "Pasted from Safari" system notification — that is expected, not an error). For a completed purchase, we also send the product, price, currency, and store transaction ID. No name, email address, or precise location is transmitted. If you did not install via a creator link, this check still runs but nothing is attributed to anyone.
+
 **frankfurter.app** (public exchange rate API)
 Retrieves currency exchange rates. Only currency codes are transmitted (e.g. "EUR", "USD"). No personal data is involved. Rates are cached locally for up to 4 hours.
 
@@ -50,13 +53,13 @@ For premium purchases, Apple or Google handle payment processing under their own
 
 Processing is based on Art. 6(1)(b) GDPR (contract performance, where a premium feature is used), Art. 6(1)(f) GDPR (legitimate interest in operating the app), and Art. 6(1)(a) GDPR (consent, where required).
 
-## 6. No Analytics or Tracking
+## 6. Limited Tracking for Creator Attribution
 
-Travel Delta does not use any analytics, tracking, or advertising SDKs. No usage profiles are created.
+Travel Delta does not use any third-party analytics, advertising, or behavioural-tracking SDKs, and does not build advertising profiles. The only tracking-like mechanism is the first-party Creator Partner Program attribution described in Section 4, used solely to credit creators for installs and purchases that came from their own tracked links.
 
 ## 7. International Data Transfers
 
-Supabase may process data on servers in the USA. Supabase Inc. is certified under the EU–U.S. Data Privacy Framework. Only non-personal country codes are transmitted.
+Supabase may process data on servers in the USA — this applies both to our main project and to the separate Creator Partner Program project described in Section 4. Supabase Inc. is certified under the EU–U.S. Data Privacy Framework. Only non-personal country codes, and the attribution data described in Section 4, are transmitted.
 
 ## 8. Your Rights (Art. 15–22 GDPR)
 
@@ -71,10 +74,12 @@ You have the right to:
 
 You can delete your referral data (see Section 4) directly in the app: Settings → About → "Delete my data". Any referral data you don't delete yourself is automatically removed after at most 180 days.
 
+Creator Partner Program attribution data (Section 4) is not covered by the in-app deletion tool above; contact support@schreiner-apps.de to request its erasure.
+
 To exercise your other rights, contact: support@schreiner-apps.de
 
 You also have the right to lodge a complaint with a data protection supervisory authority.
 
 ---
 
-Last updated: August 2026
+Last updated: September 2026

@@ -40,6 +40,9 @@ Carrega dados de viagem como requisitos de entrada, números de emergência e in
 **Supabase – Funcionalidade de convite ("convidar um amigo")**
 Para atribuir códigos de convite, é enviado à Supabase um identificador de dispositivo anónimo gerado aleatoriamente. Este identificador não está associado ao teu nome, endereço de e-mail ou outros dados pessoais. Podes eliminá-lo tu próprio a qualquer momento (ver secção 8); de qualquer forma, é removido automaticamente no prazo máximo de 180 dias.
 
+**Supabase – Creator Partner Program (atribuição)**
+Se instalares o Travel Delta através de uma ligação de rastreio partilhada por um criador de conteúdos, a aplicação comunica a instalação — e, mais tarde, uma compra premium concluída — a um segundo projeto Supabase separado, operado por nós, para que possamos creditar uma comissão a esse criador. Isto inclui: um hash criptográfico unidirecional do identificador de dispositivo descrito acima (não pode ser revertido para esse identificador); no Android, a cadeia de origem da instalação fornecida pela Google Play; no iOS, um código de curta duração que a ligação de rastreio coloca brevemente na tua área de transferência antes da instalação e que a aplicação lê uma única vez após a instalação (isto pode desencadear a notificação do sistema iOS "Colado do Safari" — é um comportamento esperado, não um erro). Para uma compra concluída, enviamos também o produto, o preço, a moeda e o identificador de transação da loja. Não são transmitidos o teu nome, endereço de e-mail ou localização precisa. Se não instalaste a aplicação através de uma ligação de um criador, esta verificação é realizada na mesma, mas nada é atribuído a ninguém.
+
 **frankfurter.app** (API pública de taxas de câmbio)
 Obtém taxas de câmbio de moeda. Apenas são transmitidos códigos de moeda (ex.: «EUR», «USD»). Sem dados pessoais. As taxas são armazenadas em cache localmente durante um máximo de 4 horas.
 
@@ -50,13 +53,13 @@ Para compras Premium, a Apple ou a Google gerem o processamento de pagamentos de
 
 O tratamento baseia-se no art. 6.º(1)(b) RGPD (execução do contrato, quando uma funcionalidade Premium é utilizada), no art. 6.º(1)(f) RGPD (interesse legítimo na operação da aplicação) e no art. 6.º(1)(a) RGPD (consentimento, quando necessário).
 
-## 6. Sem análises nem rastreamento
+## 6. Rastreamento limitado para atribuição a criadores
 
-Travel Delta não utiliza quaisquer SDKs de análise, rastreamento ou publicidade. Não são criados perfis de utilização.
+O Travel Delta não utiliza quaisquer SDKs de análise, rastreamento ou publicidade de terceiros, nem cria perfis publicitários. O único mecanismo semelhante a rastreamento é a atribuição própria do Creator Partner Program descrita na secção 4, cujo único fim é creditar comissões aos criadores por instalações e compras provenientes das suas próprias ligações de rastreio.
 
 ## 7. Transferências internacionais de dados
 
-A Supabase pode processar dados em servidores nos EUA. A Supabase Inc. está certificada no âmbito do Data Privacy Framework UE–EUA. Apenas são transmitidos códigos de país não pessoais.
+A Supabase pode processar dados em servidores nos EUA — tanto no nosso projeto principal como no projeto separado do Creator Partner Program descrito na secção 4. A Supabase Inc. está certificada no âmbito do Data Privacy Framework UE–EUA. Apenas são transmitidos códigos de país não pessoais e os dados de atribuição descritos na secção 4.
 
 ## 8. Os teus direitos (Art. 15.º–22.º RGPD)
 
@@ -71,10 +74,12 @@ Tens o direito de:
 
 Podes eliminar os teus dados de convite (ver secção 4) diretamente na aplicação: Definições → Sobre → "Eliminar os meus dados". Os dados de convite que não elimines tu próprio são removidos automaticamente no prazo máximo de 180 dias.
 
+Os dados de atribuição do Creator Partner Program (secção 4) não estão cobertos pela ferramenta de eliminação acima; contacta support@schreiner-apps.de para solicitar a sua eliminação.
+
 Para exerceres os teus outros direitos, contacta: support@schreiner-apps.de
 
 Tens também o direito de apresentar uma reclamação junto de uma autoridade de controlo de proteção de dados.
 
 ---
 
-Atualizado: agosto de 2026
+Atualizado: setembro de 2026

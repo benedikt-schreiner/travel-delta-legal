@@ -40,6 +40,9 @@ Carga datos de viaje como requisitos de entrada, números de emergencia e inform
 **Supabase – Función de referidos («invitar a un amigo»)**
 Para atribuir los códigos de referido, se envía a Supabase un identificador de dispositivo anónimo generado aleatoriamente. Este identificador no está vinculado a tu nombre, correo electrónico ni a ningún otro dato personal. Puedes eliminarlo tú mismo en cualquier momento (ver sección 8); en cualquier caso, se elimina automáticamente a más tardar a los 180 días.
 
+**Supabase – Creator Partner Program (atribución)**
+Si instalas Travel Delta a través de un enlace de seguimiento compartido por un creador de contenido, la app comunica la instalación —y, más adelante, una compra premium completada— a un segundo proyecto de Supabase independiente que operamos, para poder abonar una comisión a ese creador. Esto incluye: un hash criptográfico unidireccional del identificador de dispositivo descrito arriba (no puede revertirse a dicho identificador); en Android, la cadena de origen de instalación proporcionada por Google Play; en iOS, un código de corta duración que el enlace de seguimiento coloca brevemente en tu portapapeles antes de la instalación y que la app lee una sola vez tras instalarse (esto puede activar el aviso del sistema de iOS «Pegado desde Safari»; es un comportamiento esperado, no un error). Para una compra completada, también enviamos el producto, el precio, la moneda y el identificador de transacción de la tienda. No se transmite ni tu nombre, ni tu correo electrónico, ni tu ubicación precisa. Si no instalaste la app a través de un enlace de creador, esta comprobación se realiza igualmente, pero no se atribuye a nadie.
+
 **frankfurter.app** (API pública de tipos de cambio)
 Obtiene tipos de cambio de divisas. Solo se transmiten códigos de moneda (p. ej., «EUR», «USD»). Sin datos personales. Los tipos se almacenan en caché localmente durante un máximo de 4 horas.
 
@@ -50,13 +53,13 @@ Para las compras Premium, Apple o Google gestionan el procesamiento de pagos seg
 
 El tratamiento se basa en el art. 6(1)(b) RGPD (ejecución del contrato, cuando se utiliza una función Premium), el art. 6(1)(f) RGPD (interés legítimo en operar la aplicación) y el art. 6(1)(a) RGPD (consentimiento, cuando sea necesario).
 
-## 6. Sin análisis ni seguimiento
+## 6. Seguimiento limitado para la atribución a creadores
 
-Travel Delta no utiliza ningún SDK de análisis, seguimiento o publicidad. No se crean perfiles de uso.
+Travel Delta no utiliza ningún SDK de análisis, seguimiento o publicidad de terceros, y no crea perfiles publicitarios. El único mecanismo similar al seguimiento es la atribución propia del Creator Partner Program descrita en la sección 4, cuyo único fin es abonar comisiones a los creadores por instalaciones y compras procedentes de sus propios enlaces de seguimiento.
 
 ## 7. Transferencias internacionales de datos
 
-Supabase puede procesar datos en servidores de EE. UU. Supabase Inc. está certificada en el marco del Data Privacy Framework UE–EE. UU. Solo se transmiten códigos de país no personales.
+Supabase puede procesar datos en servidores de EE. UU., tanto en nuestro proyecto principal como en el proyecto independiente del Creator Partner Program descrito en la sección 4. Supabase Inc. está certificada en el marco del Data Privacy Framework UE–EE. UU. Solo se transmiten códigos de país no personales y los datos de atribución descritos en la sección 4.
 
 ## 8. Tus derechos (Art. 15–22 RGPD)
 
@@ -71,10 +74,12 @@ Tienes derecho a:
 
 Puedes eliminar tus datos de referidos (ver sección 4) directamente en la aplicación: Ajustes → Acerca de → "Eliminar mis datos". Los datos de referidos que no elimines tú mismo se eliminan automáticamente a más tardar a los 180 días.
 
+Los datos de atribución del Creator Partner Program (sección 4) no están cubiertos por la herramienta de eliminación anterior; contacta con support@schreiner-apps.de para solicitar su supresión.
+
 Para ejercer tus demás derechos, contacta con: support@schreiner-apps.de
 
 También tienes derecho a presentar una reclamación ante una autoridad de control de protección de datos.
 
 ---
 
-Actualizado: agosto de 2026
+Actualizado: septiembre de 2026
