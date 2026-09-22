@@ -77,10 +77,6 @@ Travel Delta is neither obligated nor willing to participate in dispute resoluti
 
 Should individual provisions of these Terms of Use be or become invalid, the validity of the remaining provisions shall remain unaffected. The invalid provision shall be replaced by the statutory provision, if available.
 
-## § 14 Governing Language
-
-These Terms of Use are available in German and English. In the event of discrepancies between the German and English versions, the German version shall prevail.
-
 ---
 
 Last updated: September 2026

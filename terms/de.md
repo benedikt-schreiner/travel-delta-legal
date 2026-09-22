@@ -77,10 +77,6 @@ Travel Delta ist nicht verpflichtet und nicht bereit, an einem Streitbeilegungsv
 
 Sollten einzelne Bestimmungen dieser Nutzungsbedingungen unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen hiervon unberührt. An die Stelle der unwirksamen Bestimmung tritt, soweit vorhanden, die gesetzliche Regelung.
 
-## § 14 Sprachfassung
-
-Diese Nutzungsbedingungen liegen in deutscher und englischer Fassung vor. Bei Abweichungen zwischen der deutschen und der englischen Fassung ist die deutsche Fassung maßgeblich.
-
 ---
 
 Stand: September 2026
