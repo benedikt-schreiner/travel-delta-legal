@@ -25,6 +25,8 @@ Travel Delta grants the user a simple (non-exclusive), non-transferable right to
 The app offers optional, paid premium features that can be acquired as a one-time in-app purchase via the Apple App Store or Google Play Store. Payment processing is carried out exclusively by the respective store operator; their payment, refund, and terms of use apply.
 The provisions of the respective platform (Apple or Google) also apply to the exercise of the statutory right of withdrawal for in-app purchases. The price displayed in the respective store prior to the conclusion of the purchase is binding. Requests for refunds or cancellations must be directed straight to Apple or Google; Travel Delta has no influence on such decisions.
 
+In-app purchases require full legal capacity to contract. Minors must obtain the prior consent of their legal guardian before making an in-app purchase.
+
 ## § 5 Intellectual Property
 
 All content, texts, graphics, icons, logos, and the software of the app are protected by copyright and are the property of Travel Delta or the respective rights holders. Any use beyond the scope of § 3, in particular commercial exploitation, reproduction, or publication, requires prior written consent.
@@ -39,7 +41,7 @@ The information provided in the app has been compiled with the greatest possible
 - Exchange rates are reference values and may differ from actual bank conditions.
 - Emergency numbers and medical advice must be verified locally through official bodies.
 - The traffic rules and laws of the respective destination country must strictly be observed; liability for damages resulting from failure to observe them is excluded within the framework of the liability regulations mentioned above.
-- Rules for travelling with pets (e.g. microchip, vaccinations, waiting periods, breed bans, quarantine) are set by national authorities, change at short notice and are enforced at the border. A refused entry or the quarantine of an animal, and the resulting costs, are borne by the owner. Always confirm every requirement with the official authority of the destination country and a veterinarian; Travel Delta assumes no liability for missed or incorrect requirements, to the extent permitted by law.
+- Rules for travelling with pets (e.g. microchip, vaccinations, waiting periods, breed bans, quarantine) are set by national authorities, change at short notice and are enforced at the border. A refused entry or the quarantine of an animal, and the resulting costs, are borne by the owner. Always confirm every requirement with the official authority of the destination country and a veterinarian; Travel Delta assumes no liability for missed or incorrect requirements, within the framework of the liability regulations mentioned above.
 
 ## § 7 Third-Party Content
 
@@ -65,13 +67,19 @@ If the user does not object to the amendments within six weeks of receiving the 
 
 For premium features already purchased (§ 4), the scope of functionality existing at the time of purchase shall remain unaffected by any amendment to these Terms of Use, unless mandatory statutory provisions provide otherwise.
 
-## § 12 Applicable Law
+## § 12 Applicable Law and Dispute Resolution
 
 The law of the Federal Republic of Germany applies. For consumers, this choice of law only applies to the extent that the granted protection is not withdrawn by mandatory consumer protection provisions of the country in which the consumer has their habitual residence.
+
+Travel Delta is neither obligated nor willing to participate in dispute resolution proceedings before a consumer arbitration board.
 
 ## § 13 Severability Clause
 
 Should individual provisions of these Terms of Use be or become invalid, the validity of the remaining provisions shall remain unaffected. The invalid provision shall be replaced by the statutory provision, if available.
+
+## § 14 Governing Language
+
+These Terms of Use are available in German and English. In the event of discrepancies between the German and English versions, the German version shall prevail.
 
 ---
 

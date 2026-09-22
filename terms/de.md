@@ -25,6 +25,8 @@ Travel Delta räumt dem Nutzer ein einfaches, nicht übertragbares Recht ein, di
 Die App bietet optionale, kostenpflichtige Premium-Funktionen an, die als einmaliger In-App-Kauf über den Apple App Store bzw. Google Play Store erworben werden können. Die Zahlungsabwicklung erfolgt ausschließlich über den jeweiligen Store-Betreiber; es gelten dessen Zahlungs-, Rückerstattungs- und Nutzungsbedingungen.
 Für die Ausübung des gesetzlichen Widerrufsrechts bei In-App-Käufen gelten ebenfalls die Bestimmungen der jeweiligen Plattform (Apple bzw. Google). Maßgeblich ist der im jeweiligen Store vor Kaufabschluss angezeigte Preis. Anfragen zu Rückerstattungen oder Widerrufen sind direkt an Apple bzw. Google zu richten; Travel Delta hat auf entsprechende Entscheidungen keinen Einfluss.
 
+In-App-Käufe setzen die uneingeschränkte Geschäftsfähigkeit voraus. Minderjährige benötigen vor einem In-App-Kauf die vorherige Zustimmung ihres gesetzlichen Vertreters.
+
 ## § 5 Geistiges Eigentum
 
 Sämtliche Inhalte, Texte, Grafiken, Icons, Logos und die Software der App sind urheberrechtlich geschützt und stehen im Eigentum von Travel Delta bzw. der jeweiligen Rechteinhaber. Eine über § 3 hinausgehende Nutzung, insbesondere eine gewerbliche Verwertung, Vervielfältigung oder Veröffentlichung, bedarf der vorherigen schriftlichen Zustimmung.
@@ -39,7 +41,7 @@ Die bereitgestellten Informationen in der App wurden mit größtmöglicher Sorgf
 - Wechselkurse sind Richtwerte und können von tatsächlichen Bankkonditionen abweichen.
 - Notrufnummern und medizinische Hinweise sind vor Ort durch offizielle Stellen zu verifizieren.
 - Die Verkehrsregeln und Gesetze des jeweiligen Ziellandes sind unbedingt zu befolgen; eine Haftung für Schäden, die aus deren Nichtbeachtung entstehen, wird im Rahmen der oben genannten Haftungsregelungen nicht übernommen.
-- Regeln für Reisen mit Haustieren (z. B. Mikrochip, Impfungen, Wartefristen, Rassebeschränkungen, Quarantäne) werden von nationalen Behörden festgelegt, können sich kurzfristig ändern und werden an der Grenze durchgesetzt. Eine verweigerte Einreise oder die Quarantäne eines Tieres sowie die daraus entstehenden Kosten gehen zu Lasten des Tierhalters. Alle Anforderungen sind stets bei der offiziellen Stelle des Ziellandes und bei einer Tierärztin oder einem Tierarzt zu bestätigen; für übersehene oder fehlerhafte Angaben wird – soweit gesetzlich zulässig – keine Haftung übernommen.
+- Regeln für Reisen mit Haustieren (z. B. Mikrochip, Impfungen, Wartefristen, Rassebeschränkungen, Quarantäne) werden von nationalen Behörden festgelegt, können sich kurzfristig ändern und werden an der Grenze durchgesetzt. Eine verweigerte Einreise oder die Quarantäne eines Tieres sowie die daraus entstehenden Kosten gehen zu Lasten des Tierhalters. Alle Anforderungen sind stets bei der offiziellen Stelle des Ziellandes und bei einer Tierärztin oder einem Tierarzt zu bestätigen; für übersehene oder fehlerhafte Angaben wird im Rahmen der oben genannten Haftungsregelungen keine Haftung übernommen.
 
 ## § 7 Drittanbieter-Inhalte
 
@@ -65,13 +67,19 @@ Widerspricht der Nutzer den Änderungen nicht innerhalb von sechs Wochen nach Zu
 
 Für bereits erworbene Premium-Funktionen (§ 4) bleibt der zum Kaufzeitpunkt bestehende Funktionsumfang von einer Änderung dieser Nutzungsbedingungen unberührt, soweit sich aus zwingenden gesetzlichen Vorschriften nichts anderes ergibt.
 
-## § 12 Anwendbares Recht
+## § 12 Anwendbares Recht und Streitschlichtung
 
 Es gilt das Recht der Bundesrepublik Deutschland. Bei Verbrauchern gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende verbraucherschützende Bestimmungen des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird.
+
+Travel Delta ist nicht verpflichtet und nicht bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ## § 13 Salvatorische Klausel
 
 Sollten einzelne Bestimmungen dieser Nutzungsbedingungen unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen hiervon unberührt. An die Stelle der unwirksamen Bestimmung tritt, soweit vorhanden, die gesetzliche Regelung.
+
+## § 14 Sprachfassung
+
+Diese Nutzungsbedingungen liegen in deutscher und englischer Fassung vor. Bei Abweichungen zwischen der deutschen und der englischen Fassung ist die deutsche Fassung maßgeblich.
 
 ---
 
